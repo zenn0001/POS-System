@@ -34,10 +34,11 @@ python main.py
 
 ## ----- FOR LOG IN FUNCTION ----- 
 ### 🔑 Login Credentials <br>
-Admin: <br>
+**Admin:** <br>
 Username: admin <br>
 Password: admin <br>
-Crew: <br>
+
+**Crew:** <br>
 Username: coronel <br>
 Password: coronel
 
