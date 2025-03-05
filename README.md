@@ -32,8 +32,8 @@ python main.py
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
------ FOR LOG IN FUNCTION ----- 
-## 🔑 Login Credentials <br>
+## ----- FOR LOG IN FUNCTION ----- 
+### 🔑 Login Credentials <br>
 Admin: <br>
 Username: admin <br>
 Password: admin <br>
