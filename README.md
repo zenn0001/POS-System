@@ -25,7 +25,7 @@ git clone https://github.com/zenn0001/POS-System.git <br>
 cd POS-System
 
 Install dependencies: (DO THIS ON TERMINAL) <br>
-pip install customtkinter pillow reportlab fpdf2
+> pip install customtkinter pillow reportlab fpdf2
 
 Run the application: <br>
 python main.py
