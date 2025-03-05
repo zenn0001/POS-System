@@ -3,7 +3,7 @@
 THE BREAD PROJECT🍞🛒
 A Python-based Point of Sale (POS) system with a modern GUI built using CustomTkinter. This system allows users to process transactions, generate receipts, apply discounts, and track purchase history.
 
-#📌 Features
+##📌 Features
 ✅ User Authentication – Login system for crew and admin access <br>
 ✅ Product Selection – Clickable UI to add items to the receipt <br>
 ✅ Transaction Processing – Calculates total cost, VAT, and discounts <br>
@@ -11,7 +11,7 @@ A Python-based Point of Sale (POS) system with a modern GUI built using CustomTk
 ✅ Discounts – Supports PWD & Senior Citizen discounts <br>
 ✅ Transaction History – View past transactions with receipt details <br>
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 Python <br>
 CustomTkinter – for modern GUI <br>
 Pillow – for handling images <br>
@@ -19,7 +19,7 @@ ReportLab & FPDF – for generating PDF receipts <br>
 OS & Datetime – for file handling and timestamps
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-# 🚀 Installation & Setup
+## 🚀 Installation & Setup
 Clone the repository: <br>
 git clone https://github.com/zenn0001/POS-System.git <br>
 cd POS-System
