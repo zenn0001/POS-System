@@ -32,13 +32,13 @@ python main.py
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
------ FOR LOG IN FUNCTION -----
-🔑 Login Credentials
-Admin:
-Username: admin
-Password: admin
-Crew:
-Username: coronel
+----- FOR LOG IN FUNCTION ----- 
+## 🔑 Login Credentials <br>
+Admin: <br>
+Username: admin <br>
+Password: admin <br>
+Crew: <br>
+Username: coronel <br>
 Password: coronel
 
 
